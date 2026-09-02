@@ -14,7 +14,7 @@
 Discovered a client-side OTP-validation bypass (CWE-602 + hard-coded cryptographic key) in a Cash-on-Delivery app used across Shopify storefronts. Full responsible disclosure — vendor-acknowledged, patched, and independently assigned a CVE by VulDB (a CNA).
 → [Full advisory + redacted PoC](https://github.com/chetansaini53/releasit-cod-otp-bypass-advisory)
 
-**🛡️ Acid Zero — On-device defensive security & education (Raspberry Pi Zero 2W + micro-LLM)**
+**🛡️ Acid Zero(https://github.com/chetansaini53/acid-zero) — On-device defensive security & education (Raspberry Pi Zero 2W + micro-LLM)**
 A blue-team learning device: for every technique it demonstrates, it ships an in-app *"detect & defend"* layer and a first-run consent gate. Built to teach defense, not attack.
 
 ---
@@ -46,7 +46,7 @@ A blue-team learning device: for every technique it demonstrates, it ships an in
 
 ### 📫 Reach me
 
-✉️ chetansaini53@gmail.com &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) &nbsp;·&nbsp; 🏢 ITob Softwares
+✉️ chetansaini53@gmail.com &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/chetansaini-dev/) &nbsp;·&nbsp;
 
 ---
 
