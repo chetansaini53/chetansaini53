@@ -1,6 +1,6 @@
 # Chetan Saini · `cyberac1d`
 
-### Senior Full-Stack Architect · Defensive Security Engineer · Vulnerability Researcher
+### Senior Full-Stack Developer | Node.js · React · AWS | Platform & Security (CVE-2026-84110)
 
 14+ years building and securing software — from production web platforms to hardware-level security tooling. Founder of **ITob Softwares**; delivering secure, scalable systems for clients across the UK, USA, UAE & India.
 
